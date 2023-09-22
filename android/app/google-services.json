@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579806368235",
+    "project_id": "astute-city-399609",
+    "storage_bucket": "astute-city-399609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579806368235:android:d7e803604ab3e328e689ae",
+        "android_client_info": {
+          "package_name": "com.example.yawar_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziKOvZfjsK4beH_vBBw4JknCWdFDSU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
